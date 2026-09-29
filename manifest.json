@@ -1,0 +1,12 @@
+{
+  "name": "HealthCare-Sim",
+  "short_name": "HealthCare-Sim",
+  "description": "Simulasi Interaktif Aktivitas Kerja Layanan Kesehatan",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#48BB78",
+  "icons": []
+}
